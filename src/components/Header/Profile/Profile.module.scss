@@ -1,0 +1,37 @@
+.container_content_right_LogoProfile {
+  display: flex;
+  transition: 0.4s;
+  cursor: pointer;
+  align-items: center;
+
+  &_div_items {
+    margin-left: 3px;
+    padding: 10px 13px;
+    &:hover {
+      background-color: #eeeded;
+    }
+    > img {
+      width: 24px;
+      height: 24px;
+    }
+  }
+  &_div_myPhoto {
+    display: flex;
+    padding: 8px 6px 8px 9px;
+    align-items: center;
+
+    &_p {
+      display: flex;
+      align-items: center;
+      margin-left: 6px;
+    }
+    &:hover {
+      background-color: #eeeded;
+    }
+  }
+}
+img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}

@@ -1,0 +1,30 @@
+.container_content_left_Music {
+  align-items: center;
+  display: flex;
+
+  &_div_pleer {
+    margin-right: 11px;
+    display: flex;
+
+    &_p {
+      display: flex;
+      margin: 0px 3px;
+    }
+  }
+  &_div_nameMusic {
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    margin-left: 3px;
+    &_p_icon {
+      color: #b8b8b8;
+      margin-right: 2px;
+      line-height: 10px;
+    }
+    &_text {
+    }
+  }
+
+  &:hover {
+  }
+}

@@ -1,0 +1,28 @@
+.container_content_left_Search {
+  font-size: 13.6px;
+  display: flex;
+  width: 230px;
+  height: 32px;
+  border-radius: 8px;
+  background-color: #edeef0;
+  align-items: center;
+  padding-left: 4px;
+  > p {
+    display: flex;
+    margin-left: 5px;
+    > svg {
+      color: #797878;
+    }
+  }
+  > input {
+    background-color: #edeef0;
+    outline: none;
+    border: inherit;
+    padding-right: 10px;
+    margin-left: 5px;
+  }
+}
+
+.icons_p {
+  font-size: 1.3em;
+}
