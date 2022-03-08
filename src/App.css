@@ -66,6 +66,19 @@ textarea,
 select {
   font: inherit;
 }
+
+body{
+ 
+  height: 1500px;
+  background-color: #edeef0;
+}
 .App {
+  
   text-align: center;
+}
+
+.wrapper{
+  display: flex;
+  margin: 0 auto;
+  width: 990px;
 }

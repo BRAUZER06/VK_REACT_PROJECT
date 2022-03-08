@@ -1,5 +1,5 @@
 import React from "react";
-import style from "./Header.module.scss";
+import style from "./Search.module.scss";
 import classNames from "classnames";
 import { IoIosSearch } from "react-icons/io";
 const Search = () => {
