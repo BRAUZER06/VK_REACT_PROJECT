@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VK_REACT_PROJECT/static/css/main.c2174120.css",
+    "main.js": "/VK_REACT_PROJECT/static/js/main.22850e7c.js",
+    "index.html": "/VK_REACT_PROJECT/index.html",
+    "main.c2174120.css.map": "/VK_REACT_PROJECT/static/css/main.c2174120.css.map",
+    "main.22850e7c.js.map": "/VK_REACT_PROJECT/static/js/main.22850e7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2174120.css",
+    "static/js/main.22850e7c.js"
+  ]
+}
